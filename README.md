@@ -8,9 +8,7 @@
 
 <div align="center">
 
-![I am GitHub Readme Generator's creator]([https://media.licdn.com/dms/image/v2/D5616AQHzFbUSkYG8rA/profile-displaybackgroundimage-shrink_350_1400/B56Z9bgNBMG0AU-/0/1783946596735?e=1785369600&v=beta&t=gK8K6WvZfXqnCNZjjBGK_83hnhKZ_zLjfeGmxrAJqHg](https://www.linkedin.com/in/priyaahmed007/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2QJAJZjKSN6cgq2iTEhrFQ%3D%3D)](https://media.licdn.com/dms/image/v2/D5616AQHzFbUSkYG8rA/profile-displaybackgroundimage-shrink_350_1400/B56Z9bgNBMG0AU-/0/1783946596735?e=1787184000&v=beta&t=zMpReRE9kRQFZLJwY-hToQPkyfUWZWG5QCTzwjAe32Y))
-
-
+[![Priya Ahmed LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQHzFbUSkYG8rA/profile-displaybackgroundimage-shrink_350_1400/B56Z9bgNBMG0AU-/0/1783946596735?e=1787184000&v=beta&t=zMpReRE9kRQFZLJwY-hToQPkyfUWZWG5QCTzwjAe32Y)](https://www.linkedin.com/in/priyaahmed007/)
 
 
 
