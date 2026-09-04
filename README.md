@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 🔗 Connect with me
+## 🔗 Connect with me 🌎 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <a href="mailto:priyaaahmed007@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email">
