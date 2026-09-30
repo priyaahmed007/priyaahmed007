@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  # Hey, I'm Priyaa 🙋‍♀️
+  # Hey, I'm Priyaa 
   
  </div>
 
