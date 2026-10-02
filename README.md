@@ -129,6 +129,7 @@ Always learning. Always creating. ✨
 </div>
 
 <br><br>
+<div align="center">
 
 ### Team Collaboration
 
@@ -138,4 +139,10 @@ Experienced in team development using **GitHub, pull requests, code reviews, and
 
 ---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=priyaahmed007)  
+<div align="center">
+
+### 📊 GitHub Activity
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=priyaahmed007&theme=dark)
+
+</div>
