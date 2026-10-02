@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 🔗 Connect with me 🌎 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## 🔗 Connect with me 🌎 
 
 <a href="mailto:priyaaahmed007@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email">
@@ -45,10 +45,6 @@
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/priyamoni.07">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" alt="Facebook">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/priyamoni_007/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram">
 </a>
 
 </div>
