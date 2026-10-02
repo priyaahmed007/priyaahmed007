@@ -116,6 +116,20 @@ Always learning. Always creating. ✨
 
 <br><br>
 
+### Tools
+
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS_CODE-black?style=flat-square&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/VERCEL-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/NETLIFY-black?style=flat-square&logo=netlify)
+![Figma](https://img.shields.io/badge/FIGMA-black?style=flat-square&logo=figma)
+![Postman](https://img.shields.io/badge/POSTMAN-black?style=flat-square&logo=postman)
+![npm](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
+
+</div>
+
+<br><br>
+
 ### Team Collaboration
 
 Experienced in team development using **GitHub, pull requests, code reviews, and structured workflows.**
