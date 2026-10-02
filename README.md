@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  # Hey, I'm Priyaa 
+  # Hey, I'm Priyaa 🙋‍♀️ 
   
  </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Priya Ahmed LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQHzFbUSkYG8rA/profile-displaybackgroundimage-shrink_350_1400/B56Z9bgNBMG0AU-/0/1783946596735?e=1787184000&v=beta&t=zMpReRE9kRQFZLJwY-hToQPkyfUWZWG5QCTzwjAe32Y)](https://www.linkedin.com/in/priyaahmed007/)
+[![Priya Ahmed LinkedIn Banner](./assets/banner.png)](https://www.linkedin.com/in/priyaahmed007/)
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-### Frontend Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,10 +42,7 @@
 <a href="https://www.linkedin.com/in/priyaahmed007/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/priyamoni.07">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" alt="Facebook">
-</a>
+
 
 </div>
 
