@@ -54,21 +54,34 @@
 
 ## About me
 
-Hello, I'm **Priya Ahmed** — a Frontend Developer focused on building clean, scalable, and modern web applications.
+Hello, I’m **Priya Ahmed** — a **Frontend Developer** who loves turning ideas into clean, modern, and meaningful digital experiences.
 
-I value structure, performance, and long-term maintainability over hype.
+I’m passionate about creating **beautiful interfaces, writing maintainable code, and paying attention to the little details** that make a product feel polished.
 
-<br>
-
-**Frontend Developer**
-
-React / Next.js / TypeScript
-
-Modern UI & clean architecture
-
-Strong GitHub collaboration mindset
+Always learning. Always creating. ✨
 
 </div>
+
+---
+
+<!-- ==================== CURRENTLY ==================== -->
+
+<div align="left">
+
+# 🎀 Currently
+
+- 💻 **Frontend Developer** crafting clean, modern & purposeful web experiences
+- ⚛️ Building with **React, Next.js & TypeScript**
+- ✨ Passionate about **beautiful UI, thoughtful details & clean architecture**
+- 💼 **1.5+ Years of Experience** in Frontend Development
+- 🌱 Growing toward **Full-Stack Development** with Node.js & MongoDB
+- 🤍 Believe in writing code that is **simple, scalable & maintainable**
+- 🪄 Always learning, creating & becoming better — one project at a time
+- ⚡ **Code. Create. Continue.**
+
+</div>
+
+---
 
 ---
 
