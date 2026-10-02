@@ -12,9 +12,6 @@
 
 
 
-
-
-
 </div>
 
 <!-- ==================== HEADER ==================== -->
@@ -83,13 +80,12 @@ Always learning. Always creating. ✨
 
 ---
 
----
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 
 <div align="center">
 
-## Technologies
+# Technologies
 
 ### Core Technologies
 
@@ -103,8 +99,6 @@ Always learning. Always creating. ✨
 ![Git](https://img.shields.io/badge/GIT-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GITHUB-black?style=flat-square&logo=github)
 
-<br><br>
-
 ### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
@@ -113,8 +107,6 @@ Always learning. Always creating. ✨
 ![Redux](https://img.shields.io/badge/REDUX-black?style=flat-square&logo=redux)
 ![React Query](https://img.shields.io/badge/REACT_QUERY-black?style=flat-square&logo=reactquery)
 ![Zustand](https://img.shields.io/badge/ZUSTAND-black?style=flat-square)
-
-<br><br>
 
 ### Tools
 
@@ -125,11 +117,6 @@ Always learning. Always creating. ✨
 ![Figma](https://img.shields.io/badge/FIGMA-black?style=flat-square&logo=figma)
 ![Postman](https://img.shields.io/badge/POSTMAN-black?style=flat-square&logo=postman)
 ![npm](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
-
-</div>
-
-<br><br>
-<div align="center">
 
 ### Team Collaboration
 
