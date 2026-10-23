@@ -93,9 +93,9 @@ Always learning. Always creating. ✨
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-black?style=flat-square&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
+![JSX](https://img.shields.io/badge/JSX-black?style=flat-square&logo=jsx)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript)
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 ![Git](https://img.shields.io/badge/GIT-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GITHUB-black?style=flat-square&logo=github)
 
@@ -104,9 +104,11 @@ Always learning. Always creating. ✨
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/VITE-black?style=flat-square&logo=vite)
-![Redux](https://img.shields.io/badge/REDUX-black?style=flat-square&logo=redux)
-![React Query](https://img.shields.io/badge/REACT_QUERY-black?style=flat-square&logo=reactquery)
-![Zustand](https://img.shields.io/badge/ZUSTAND-black?style=flat-square)
+
+### Authentication & Database
+
+![Better Auth](https://img.shields.io/badge/Better_Auth-black?style=flat-square&logo=betterauth)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 
 ### Tools
 
@@ -115,7 +117,6 @@ Always learning. Always creating. ✨
 ![Vercel](https://img.shields.io/badge/VERCEL-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/NETLIFY-black?style=flat-square&logo=netlify)
 ![Figma](https://img.shields.io/badge/FIGMA-black?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/POSTMAN-black?style=flat-square&logo=postman)
 ![npm](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
 
 ### Team Collaboration
